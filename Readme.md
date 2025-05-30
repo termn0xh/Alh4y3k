@@ -1,5 +1,8 @@
-# 💫 About Me:
-Small Android OS and Kernel dev, CTF Player with JordanSec and a basic games dev and designer
+# Hello World!, I'm Husam Alhayek, a Jordanian CTF Player and Android Developer 👋🏼:
+• Studying for CISCO CCNA Certificate
+• Developing CyberEdge Kali Nethunter Kernels
+• Competeing CTF challenges with JordanSec National CTF Team
+• Learning and working on games development
 
 
 
