@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">• Studying for CISCO CCNA Certificate<br>• Developing CyberEdge Kali Nethunter Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development, games development</p>
+<p align="left">• Studying for CISCO CCNA Certificate<br>• Developing CyberEdge Kali Nethunter Kernels<br>• Competeing CTF challenges with JordanSec National CTF Team<br>• Learning and working on android ROMs development and games development</p>
 
 ###
 
